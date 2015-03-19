@@ -3,6 +3,22 @@
     tools:context="com.sio2.ppe4_galaxyweb.MainActivity" >
 
     <item
+        android:id="@+id/menu_list"
+        android:icon="@drawable/ilist"
+        android:showAsAction="always"
+        android:title="@string/menu_list"/>
+    
+    <item
+        android:id="@+id/menu_import"
+        android:showAsAction="always"
+        android:title="@string/menu_import"/>
+     
+    <item
+        android:id="@+id/menu_export"
+        android:showAsAction="always"
+        android:title="@string/menu_export"/>
+    
+    <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:showAsAction="never"

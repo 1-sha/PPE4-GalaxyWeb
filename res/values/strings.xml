@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">PPE4-GalaxyWeb</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="menu_list">Liste des clients</string>
+    <string name="menu_import">Importer les clients</string>
+    <string name="menu_export">Exporter les clients</string>
 
 </resources>
